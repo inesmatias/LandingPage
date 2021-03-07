@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+    font-family: Century Gothic;
+    background-image: url(images/code.jpg);
+    background-size: cover;
+    color: white;
+  }
+  
+  h1 {
+    font-size: 70px;
+    padding-top: 90px;
+    text-shadow: 2px 2px 2px gray;
+    margin-bottom: 15px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  .botao {
+    text-decoration: none;
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+    padding: 10px 15px 10px 15px;
+    border-radius: 4px;
+  }
+  
+  .botao:hover {
+    background-color: gray;
+  }
+  
+  .lista {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 150px;
+  }
+  
+  .lista li {
+    display: inline;
+  }
+  
+  .lista a {
+    color: #424242;
+    font-size: 25px;
+  }
+
+
+
+
+
+  @import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
+
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    font-family: Century Gothic;
+  }
+  
+  
+  
+  .btn {
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+    width: 250px;
+    cursor: pointer;
+  }
+  
+  
